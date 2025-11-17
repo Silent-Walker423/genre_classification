@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/f106603a0dcf455e9eb86f57b169692c/artifacts
+end_time: 1763319287532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f106603a0dcf455e9eb86f57b169692c
+run_name: upbeat-midge-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763319280511
+status: 4
+tags: []
+user_id: patricia_walker

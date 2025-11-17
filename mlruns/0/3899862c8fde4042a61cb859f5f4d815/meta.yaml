@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/3899862c8fde4042a61cb859f5f4d815/artifacts
+end_time: 1763311452132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3899862c8fde4042a61cb859f5f4d815
+run_name: stylish-pig-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763311423754
+status: 3
+tags: []
+user_id: patricia_walker

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/d67cf2554f93429f80bf37ad30fcecf1/artifacts
+end_time: 1763383757514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d67cf2554f93429f80bf37ad30fcecf1
+run_name: youthful-snipe-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763383690630
+status: 4
+tags: []
+user_id: patricia_walker

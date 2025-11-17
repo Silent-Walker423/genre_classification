@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/b2f004606a63490898ca222261357116/artifacts
+end_time: 1763388871185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2f004606a63490898ca222261357116
+run_name: sneaky-zebra-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763388867834
+status: 3
+tags: []
+user_id: patricia_walker

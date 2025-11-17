@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/64cb153167a447ff87b6b70f2cdb6247/artifacts
+end_time: 1763311476266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64cb153167a447ff87b6b70f2cdb6247
+run_name: handsome-swan-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763311452140
+status: 4
+tags: []
+user_id: patricia_walker

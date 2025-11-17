@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/b3034e94cba246578b3c909d42d35175/artifacts
+end_time: 1763319287745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3034e94cba246578b3c909d42d35175
+run_name: popular-mink-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763319267442
+status: 4
+tags: []
+user_id: patricia_walker

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/b3b8e5b42c024e6bb447e20b6205c2d4/artifacts
+end_time: 1763388546928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3b8e5b42c024e6bb447e20b6205c2d4
+run_name: fun-sow-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763388447561
+status: 3
+tags: []
+user_id: patricia_walker

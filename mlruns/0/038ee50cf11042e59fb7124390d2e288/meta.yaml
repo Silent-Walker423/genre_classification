@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/038ee50cf11042e59fb7124390d2e288/artifacts
+end_time: 1763383757285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 038ee50cf11042e59fb7124390d2e288
+run_name: clean-skink-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763383711716
+status: 4
+tags: []
+user_id: patricia_walker

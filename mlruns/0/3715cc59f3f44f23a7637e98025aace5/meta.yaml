@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/3715cc59f3f44f23a7637e98025aace5/artifacts
+end_time: 1763386032635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3715cc59f3f44f23a7637e98025aace5
+run_name: melodic-colt-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763386015300
+status: 3
+tags: []
+user_id: patricia_walker

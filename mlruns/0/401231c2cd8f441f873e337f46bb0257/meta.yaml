@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/401231c2cd8f441f873e337f46bb0257/artifacts
+end_time: 1763384626304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 401231c2cd8f441f873e337f46bb0257
+run_name: bustling-stork-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763384615321
+status: 3
+tags: []
+user_id: patricia_walker

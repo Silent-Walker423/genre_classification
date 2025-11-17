@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/9dce1c6932824c15ab0e40f488e6af04/artifacts
+end_time: 1763385793445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dce1c6932824c15ab0e40f488e6af04
+run_name: sedate-snail-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763385712913
+status: 4
+tags: []
+user_id: patricia_walker

@@ -1,0 +1,51 @@
+_wandb:
+    value:
+        cli_version: 0.21.3
+        e:
+            i0t9p1b9d557xzmu7ix1f4nv7nzea4tv:
+                args:
+                    - --input_artifact
+                    - raw_data.parquest:latest
+                    - --artifact_name
+                    - processed_data.csv
+                    - --artifact_type
+                    - processed_data
+                    - --artifact_description
+                    - Preprocessed data
+                codePath: preprocess/run.py
+                codePathLocal: run.py
+                cpu_count: 8
+                cpu_count_logical: 8
+                cudaVersion: "12.9"
+                disk:
+                    /:
+                        total: "1081101176832"
+                        used: "32711565312"
+                email: pwal192@wgu.edu
+                executable: /home/patricia_walker/miniconda3/envs/mlflow-428f3442275814dbf6350cf02d74496ce6bae3ac/bin/python
+                git:
+                    commit: 2b4f36393b9238dda534595bbe8e495ba7abb79e
+                    remote: https://github.com/Silent-Walker423/genre_classification.git
+                gpu: NVIDIA GeForce RTX 2070
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Turing
+                      memoryTotal: "8589934592"
+                      name: NVIDIA GeForce RTX 2070
+                      uuid: GPU-f51412e9-e663-add3-39ec-a714a6321893
+                host: Silent-Walker-PC
+                memory:
+                    total: "33565134848"
+                os: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+                program: /home/patricia_walker/genre_classification/preprocess/run.py
+                python: CPython 3.13.9
+                root: /home/patricia_walker/genre_classification/preprocess
+                startedAt: "2025-11-16T16:44:34.937891Z"
+                writerId: i0t9p1b9d557xzmu7ix1f4nv7nzea4tv
+        m: []
+        python_version: 3.13.9
+        t:
+            "4": 3.13.9
+            "5": 0.21.3
+            "12": 0.21.3
+            "13": linux-x86_64

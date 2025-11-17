@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/fe4bb7ed063440dfbf21952bcba2d0bb/artifacts
+end_time: 1763384606061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe4bb7ed063440dfbf21952bcba2d0bb
+run_name: carefree-foal-650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763384597487
+status: 3
+tags: []
+user_id: patricia_walker

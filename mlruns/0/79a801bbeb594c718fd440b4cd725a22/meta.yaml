@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/79a801bbeb594c718fd440b4cd725a22/artifacts
+end_time: 1763386032485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79a801bbeb594c718fd440b4cd725a22
+run_name: bouncy-ape-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763386018453
+status: 3
+tags: []
+user_id: patricia_walker
