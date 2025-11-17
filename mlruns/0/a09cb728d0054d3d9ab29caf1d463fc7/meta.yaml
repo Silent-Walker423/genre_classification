@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/a09cb728d0054d3d9ab29caf1d463fc7/artifacts
+end_time: 1763394126833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a09cb728d0054d3d9ab29caf1d463fc7
+run_name: overjoyed-pug-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763394107393
+status: 3
+tags: []
+user_id: patricia_walker

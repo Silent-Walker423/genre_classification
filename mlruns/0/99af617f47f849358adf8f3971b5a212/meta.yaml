@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/99af617f47f849358adf8f3971b5a212/artifacts
+end_time: 1763394136377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99af617f47f849358adf8f3971b5a212
+run_name: bright-horse-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763394126841
+status: 3
+tags: []
+user_id: patricia_walker

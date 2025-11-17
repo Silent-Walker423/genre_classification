@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/3044627366154cc88de0f542f748cec5/artifacts
+end_time: 1763393561020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3044627366154cc88de0f542f748cec5
+run_name: thundering-ape-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763393549371
+status: 3
+tags: []
+user_id: patricia_walker

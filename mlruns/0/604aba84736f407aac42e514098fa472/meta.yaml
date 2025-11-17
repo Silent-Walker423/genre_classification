@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/604aba84736f407aac42e514098fa472/artifacts
+end_time: 1763393526109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 604aba84736f407aac42e514098fa472
+run_name: charming-kit-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763393518576
+status: 3
+tags: []
+user_id: patricia_walker

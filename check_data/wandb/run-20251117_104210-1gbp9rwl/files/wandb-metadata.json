@@ -1,0 +1,26 @@
+{
+  "os": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python": "CPython 3.13.9",
+  "startedAt": "2025-11-17T15:42:10.467110Z",
+  "args": [
+    "-s",
+    "-vv",
+    ".",
+    "--reference_artifact",
+    "exercise_14/preprocessed_data.csv:latest",
+    "--sample_artifact",
+    "preprocessed_data.csv:latest",
+    "--ks_alpha",
+    "0.05"
+  ],
+  "program": "/home/patricia_walker/miniconda3/envs/mlflow-8b8c5bbbcf30a4f621fb194c7af489e467ffbbf1/bin/pytest",
+  "git": {
+    "remote": "https://github.com/Silent-Walker423/genre_classification.git",
+    "commit": "33e50caff491f3a58286932a56c9f5fc0ce3fe95"
+  },
+  "email": "pwal192@wgu.edu",
+  "root": "/home/patricia_walker/genre_classification/check_data",
+  "host": "Silent-Walker-PC",
+  "executable": "/home/patricia_walker/miniconda3/envs/mlflow-8b8c5bbbcf30a4f621fb194c7af489e467ffbbf1/bin/python3.13",
+  "writerId": "ca3th6t3hx37c1gbejg3endjxxfpxbns"
+}

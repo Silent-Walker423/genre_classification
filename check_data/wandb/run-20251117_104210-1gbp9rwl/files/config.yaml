@@ -1,0 +1,34 @@
+_wandb:
+    value:
+        cli_version: 0.21.3
+        e:
+            ca3th6t3hx37c1gbejg3endjxxfpxbns:
+                args:
+                    - -s
+                    - -vv
+                    - .
+                    - --reference_artifact
+                    - exercise_14/preprocessed_data.csv:latest
+                    - --sample_artifact
+                    - preprocessed_data.csv:latest
+                    - --ks_alpha
+                    - "0.05"
+                email: pwal192@wgu.edu
+                executable: /home/patricia_walker/miniconda3/envs/mlflow-8b8c5bbbcf30a4f621fb194c7af489e467ffbbf1/bin/python3.13
+                git:
+                    commit: 33e50caff491f3a58286932a56c9f5fc0ce3fe95
+                    remote: https://github.com/Silent-Walker423/genre_classification.git
+                host: Silent-Walker-PC
+                os: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+                program: /home/patricia_walker/miniconda3/envs/mlflow-8b8c5bbbcf30a4f621fb194c7af489e467ffbbf1/bin/pytest
+                python: CPython 3.13.9
+                root: /home/patricia_walker/genre_classification/check_data
+                startedAt: "2025-11-17T15:42:10.467110Z"
+                writerId: ca3th6t3hx37c1gbejg3endjxxfpxbns
+        m: []
+        python_version: 3.13.9
+        t:
+            "4": 3.13.9
+            "5": 0.21.3
+            "12": 0.21.3
+            "13": linux-x86_64

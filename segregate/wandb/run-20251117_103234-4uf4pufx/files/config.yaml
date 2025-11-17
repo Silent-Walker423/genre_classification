@@ -1,0 +1,61 @@
+_wandb:
+    value:
+        cli_version: 0.21.3
+        e:
+            ya97unp4deld9daw4oonvuq4ei6vuiy4:
+                args:
+                    - --input_artifact
+                    - preprocessed_data.csv:latest
+                    - --artifact_root
+                    - genre_classification
+                    - --artifact_type
+                    - segregated_data
+                    - --test_size
+                    - "0.3"
+                    - --random_state
+                    - "42"
+                    - --stratify
+                    - genre
+                codePath: segregate/run.py
+                codePathLocal: run.py
+                cpu_count: 8
+                cpu_count_logical: 8
+                cudaVersion: "12.9"
+                disk:
+                    /:
+                        total: "1081101176832"
+                        used: "33895575552"
+                email: pwal192@wgu.edu
+                executable: /home/patricia_walker/miniconda3/envs/mlflow-2b05c334639a6588d5c96ec48ecc7de59f6ca254/bin/python
+                git:
+                    commit: 33e50caff491f3a58286932a56c9f5fc0ce3fe95
+                    remote: https://github.com/Silent-Walker423/genre_classification.git
+                gpu: NVIDIA GeForce RTX 2070
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Turing
+                      memoryTotal: "8589934592"
+                      name: NVIDIA GeForce RTX 2070
+                      uuid: GPU-f51412e9-e663-add3-39ec-a714a6321893
+                host: Silent-Walker-PC
+                memory:
+                    total: "33565134848"
+                os: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+                program: /home/patricia_walker/genre_classification/segregate/run.py
+                python: CPython 3.13.9
+                root: /home/patricia_walker/genre_classification/segregate
+                startedAt: "2025-11-17T15:32:34.676145Z"
+                writerId: ya97unp4deld9daw4oonvuq4ei6vuiy4
+        m: []
+        python_version: 3.13.9
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "4": 3.13.9
+            "5": 0.21.3
+            "12": 0.21.3
+            "13": linux-x86_64

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/7bb0c8988a764c04878ecdb22c13bca7/artifacts
+end_time: 1763394107386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bb0c8988a764c04878ecdb22c13bca7
+run_name: brawny-kit-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763394095641
+status: 3
+tags: []
+user_id: patricia_walker

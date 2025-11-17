@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/2eb88f35541e41689af1547be0426e8e/artifacts
+end_time: 1763394180051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2eb88f35541e41689af1547be0426e8e
+run_name: tasteful-hare-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763394152460
+status: 3
+tags: []
+user_id: patricia_walker

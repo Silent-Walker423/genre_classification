@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/65670b8a689b4fa5ba2311602ee8b810/artifacts
+end_time: 1763393538958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65670b8a689b4fa5ba2311602ee8b810
+run_name: bold-goat-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763393526118
+status: 3
+tags: []
+user_id: patricia_walker

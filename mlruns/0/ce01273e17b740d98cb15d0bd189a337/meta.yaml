@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/ce01273e17b740d98cb15d0bd189a337/artifacts
+end_time: 1763394184833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce01273e17b740d98cb15d0bd189a337
+run_name: polite-jay-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763394092268
+status: 4
+tags: []
+user_id: patricia_walker

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/547a97c175e6480c94ac2f206d041c9e/artifacts
+end_time: 1763394152450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 547a97c175e6480c94ac2f206d041c9e
+run_name: worried-panda-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763394136385
+status: 3
+tags: []
+user_id: patricia_walker

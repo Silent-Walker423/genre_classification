@@ -1,0 +1,14 @@
+artifact_uri: file:///home/patricia_walker/genre_classification/mlruns/0/a36ac0b54f884f8491ed00219d0fcfed/artifacts
+end_time: 1763393593387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a36ac0b54f884f8491ed00219d0fcfed
+run_name: mysterious-toad-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763393561030
+status: 3
+tags: []
+user_id: patricia_walker
